@@ -14,7 +14,7 @@ If you have Git installed copy and paste this in your command-line (the last lin
 git clone https://github.com/ahaan-codes/expense-tracker.git
 cd expense-tracker
 python3 expense_tracker.py
-
+```
 - OPTION B -
 Download ZIP from GitHub:
 1. Go to https://github.com/ahaan-codes/expense-tracker
@@ -22,8 +22,9 @@ Download ZIP from GitHub:
 3. Extract (unzip) the downloaded folder to your computer
 4. Open a terminal or command prompt inside the extracted folder
 5. Once inside the folder, copy and paste this line into the command-line:
+```bash
 python3 expense_tracker.py
-
+```
 
 
 
